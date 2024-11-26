@@ -29,6 +29,10 @@ Ce projet est une page web simple avec un arrière-plan flou. Il utilise HTML et
 
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request pour toute amélioration ou correction de bug.
 
+## Auteur
+
+Christian Grohens JavaChrist
+
 ## Licence
 
 Ce projet est sous licence MIT. 
